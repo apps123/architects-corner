@@ -46,7 +46,7 @@ A collection of interesting technologies
 
 ### Cloud Design Patterns
 
-  * Azure Cloud Design Patterns (https://docs.microsoft.com/en-us/azure/architecture/patterns/)[https://docs.microsoft.com/en-us/azure/architecture/patterns/]
+  * Azure Cloud Design Patterns [https://docs.microsoft.com/en-us/azure/architecture/patterns/](https://docs.microsoft.com/en-us/azure/architecture/patterns/)
 
 ### UML
 
