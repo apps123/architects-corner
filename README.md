@@ -44,6 +44,10 @@ A collection of interesting technologies
 ### GOF Software Design Patterns
 
 
+### Web Service Architecture Design Patterns
+
+  * Microservices Design Patterns [https://www.slideshare.net/JavaDayUA/microservices-design-patterns-for-java-application](https://www.slideshare.net/JavaDayUA/microservices-design-patterns-for-java-application)
+
 ### Cloud Design Patterns
 
   * Azure Cloud Design Patterns [https://docs.microsoft.com/en-us/azure/architecture/patterns/](https://docs.microsoft.com/en-us/azure/architecture/patterns/)
