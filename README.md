@@ -41,8 +41,12 @@ A collection of interesting technologies
 ### Java Opensource Software
 
 
-### Design Patterns
+### GOF Software Design Patterns
 
+
+### Cloud Design Patterns
+
+  * Azure Cloud Design Patterns (https://docs.microsoft.com/en-us/azure/architecture/patterns/)[https://docs.microsoft.com/en-us/azure/architecture/patterns/]
 
 ### UML
 
