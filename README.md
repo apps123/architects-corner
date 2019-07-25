@@ -54,6 +54,7 @@ A collection of interesting technologies
 
 ### UML
 
+  * UML reference - [https://holub.com/uml/](https://holub.com/uml/)
 
 ### Relational DB
 
