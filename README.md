@@ -56,6 +56,10 @@ A collection of interesting technologies
 
   * UML reference - [https://holub.com/uml/](https://holub.com/uml/)
 
+### Patterns in Software Engineering
+
+  * Software Engineering Patterns - [http://sharif.edu/~ramsin/index_files/pselecture15.pdf](http://sharif.edu/~ramsin/index_files/pselecture15.pdf)
+
 ### Relational DB
 
 
