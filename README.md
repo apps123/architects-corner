@@ -20,7 +20,7 @@ A collection of interesting technologies
 ### Java
 
 | Java Version | Features released in JDK X | 
-|--------------|----------------------------|
+|:--------------|:----------------------------|
 | JDK 8 and 9 | [https://static.rainfocus.com/oracle/oraclecode17/sess/1485992822413001Yd6N/PF/Cool%20in%20Java%208,%20and%20new%20in%20Java%209.pdf](https://static.rainfocus.com/oracle/oraclecode17/sess/1485992822413001Yd6N/PF/Cool%20in%20Java%208,%20and%20new%20in%20Java%209.pdf) |
 | JDK 9 | [https://docs.oracle.com/javase/9/whatsnew/JSNEW.pdf](https://docs.oracle.com/javase/9/whatsnew/JSNEW.pdf) |
 | JDK 9 | [http://www.sdjug.org/docs/2017-04-18-Java9.pdf](http://www.sdjug.org/docs/2017-04-18-Java9.pdf) |
