@@ -38,6 +38,13 @@ A collection of interesting technologies
 | JDK 11| [https://blog.overops.com/java-11-will-include-more-than-just-features/](https://blog.overops.com/java-11-will-include-more-than-just-features/) |
 | | |
 
+### Java Stacks
+
+| Name | Description | Link |
+|:-----|:------------|:-----|
+|Tellirium|Tellurium Automated Testing Framework is an open source automated testing framework for testing web applications. Tellurium evolved from Selenium framework about 2 years ago with a different testing approach. Tellurium is built on UI module concept, which makes it possible to write reusable and easy to maintain tests against the dynamic RIA based web applications.|http://www.methodsandtools.com/tools/tools.php?tellurium|  
+| | |
+
 ### Scala
 
 
