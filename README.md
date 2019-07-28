@@ -42,7 +42,7 @@ A collection of interesting technologies
 
 | Name | Description | Link |
 |:-----|:------------|:-----|
-|Tellirium|Tellurium Automated Testing Framework is an open source automated testing framework for testing web applications. Tellurium evolved from Selenium framework around 2017 with a different testing approach. Tellurium is built on UI module concept, which makes it possible to write reusable and easy to maintain tests against the dynamic RIA based web applications.|http://www.methodsandtools.com/tools/tools.php?tellurium|  
+|Tellirium|Tellurium Automated Testing Framework is an open source automated testing framework for testing web applications. Tellurium evolved from Selenium framework around 2017 with a different testing approach. Tellurium is built on UI module concept, which makes it possible to write reusable and easy to maintain tests against the dynamic RIA based web applications.|[http://www.methodsandtools.com/tools/tools.php?tellurium](http://www.methodsandtools.com/tools/tools.php?tellurium)|  
 | | |
 
 ### Scala
