@@ -43,8 +43,8 @@ A collection of interesting technologies
 | Name | Description | Link |
 |:-----|:------------|:-----|
 |Tellirium|Tellurium Automated Testing Framework is an open source automated testing framework for testing web applications. Tellurium evolved from Selenium framework around 2017 with a different testing approach. Tellurium is built on UI module concept, which makes it possible to write reusable and easy to maintain tests against the dynamic RIA based web applications.|[http://www.methodsandtools.com/tools/tools.php?tellurium](http://www.methodsandtools.com/tools/tools.php?tellurium)|  
-| Lambda Behave | Support Spec like output to JUnit | [https://github.com/RichardWarburton/lambda-behave](https://github.com/RichardWarburton/lambda-behave) |
-| | | |
+| Lambda Behave | Support Spec like output to JUnit uses lamda support of JDK 8| [https://github.com/RichardWarburton/lambda-behave](https://github.com/RichardWarburton/lambda-behave) |
+| HierarchicalContextRunner | Support Spec like output using JUnit with lambda support of JDK 8 | [https://github.com/bechte/junit-hierarchicalcontextrunner/wiki](https://github.com/bechte/junit-hierarchicalcontextrunner/wiki) |
 | | | |
 | | | |
 
