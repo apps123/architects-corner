@@ -19,6 +19,24 @@ A collection of interesting technologies
 
 ### Java
 
+| Java Version | Features released in JDK X | 
+|--------------|----------------------------|
+| JDK 8 and 9 | [https://static.rainfocus.com/oracle/oraclecode17/sess/1485992822413001Yd6N/PF/Cool%20in%20Java%208,%20and%20new%20in%20Java%209.pdf](https://static.rainfocus.com/oracle/oraclecode17/sess/1485992822413001Yd6N/PF/Cool%20in%20Java%208,%20and%20new%20in%20Java%209.pdf) |
+| JDK 9 | [https://docs.oracle.com/javase/9/whatsnew/JSNEW.pdf](https://docs.oracle.com/javase/9/whatsnew/JSNEW.pdf) |
+| JDK 9 | [http://www.sdjug.org/docs/2017-04-18-Java9.pdf](http://www.sdjug.org/docs/2017-04-18-Java9.pdf) |
+| 55 New features in JDK9 | [https://www.doag.org/formes/pubfiles/9504016/2017-Java-Simon_Ritter-55_New_Features_in_JDK_9-Praesentation.pdf](https://www.doag.org/formes/pubfiles/9504016/2017-Java-Simon_Ritter-55_New_Features_in_JDK_9-Praesentation.pdf) |
+| | |
+| JDK 10 | [https://www.oracle.com/technetwork/cn/community/developer-day/2-55-new-features-java-se-8-2202551-zhs.pdf](https://www.oracle.com/technetwork/cn/community/developer-day/2-55-new-features-java-se-8-2202551-zhs.pdf) |
+| *JDK 10* | [http://enos.itcollege.ee/~jpoial/allalaadimised/reading/Java-8-Features.pdf](http://enos.itcollege.ee/~jpoial/allalaadimised/reading/Java-8-Features.pdf) |
+| | |
+| JDK 9, 10 and 11 | [https://assets.azul.com/files/JDK-9-10-11-and-Beyond.pdf](https://assets.azul.com/files/JDK-9-10-11-and-Beyond.pdf) |
+| JDK 10 | [https://developer.oracle.com/devo/res/pdf/1385446602743/Oracle-Java10.pdf](https://developer.oracle.com/devo/res/pdf/1385446602743/Oracle-Java10.pdf) |
+| JDK 10 | [https://www.baeldung.com/java-10-overview](https://www.baeldung.com/java-10-overview) |
+| JDK 10 | [https://howtodoinjava.com/java10/java10-features/](https://howtodoinjava.com/java10/java10-features/) |
+| | |
+| JDK 11| [https://dzone.com/articles/90-new-features-and-apis-in-jdk-11](https://dzone.com/articles/90-new-features-and-apis-in-jdk-11) |
+| JDK 11| [https://blog.overops.com/java-11-will-include-more-than-just-features/](https://blog.overops.com/java-11-will-include-more-than-just-features/) |
+| | |
 
 ### Scala
 
