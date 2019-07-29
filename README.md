@@ -122,4 +122,4 @@ A collection of interesting technologies
 | How I got into Google | [https://blog.usejournal.com/how-i-got-into-google-161c97913b8b](https://blog.usejournal.com/how-i-got-into-google-161c97913b8b) |
 | Best Interview Questions | [https://beamery.com/blog/best-interview-questions](https://beamery.com/blog/best-interview-questions) |
 | Worst Interview questions | [https://magazine.vunela.com/the-5-worst-interview-questions-and-how-to-answer-them-like-a-pro-2754cb58f2ac](https://magazine.vunela.com/the-5-worst-interview-questions-and-how-to-answer-them-like-a-pro-2754cb58f2ac) |
-
+| Leetcode solutions to Interview questions | [https://github.com/donnemartin/system-design-primer](https://github.com/donnemartin/system-design-primer) |
