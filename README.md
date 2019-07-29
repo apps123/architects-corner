@@ -107,4 +107,15 @@ A collection of interesting technologies
   * Logstash
   
 
-### Common Interview Questions
+### Everyone needs a Job
+
+| Source | Link |
+|:-------|:-----|
+| Javapoint | [https://www.javatpoint.com/interview-questions-and-answers](https://www.javatpoint.com/interview-questions-and-answers) |
+| Behavioural Interview Questions | [https://medium.com/swlh/the-secret-to-answering-behavioral-interview-questions-68d13b4c625d](https://medium.com/swlh/the-secret-to-answering-behavioral-interview-questions-68d13b4c625d) |
+| Grading rubric | [https://medium.engineering/engineering-interviews-grading-rubric-8b409bec021f](https://medium.engineering/engineering-interviews-grading-rubric-8b409bec021f) |
+| Ultimate guide - freecodecamp.org | [https://www.freecodecamp.org/news/the-ultimate-guide-to-preparing-for-the-coding-interview-183251ee36c9/](https://www.freecodecamp.org/news/the-ultimate-guide-to-preparing-for-the-coding-interview-183251ee36c9/) |
+| How I got into Google | [https://blog.usejournal.com/how-i-got-into-google-161c97913b8b](https://blog.usejournal.com/how-i-got-into-google-161c97913b8b) |
+| Best Interview Questions | [https://beamery.com/blog/best-interview-questions](https://beamery.com/blog/best-interview-questions) |
+| Worst Interview questions | [https://magazine.vunela.com/the-5-worst-interview-questions-and-how-to-answer-them-like-a-pro-2754cb58f2ac](https://magazine.vunela.com/the-5-worst-interview-questions-and-how-to-answer-them-like-a-pro-2754cb58f2ac) |
+
