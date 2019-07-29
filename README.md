@@ -73,6 +73,10 @@ A collection of interesting technologies
 ### GOF Software Design Patterns
 
 
+### System Design 
+
+  * [https://github.com/donnemartin/system-design-primer](https://github.com/donnemartin/system-design-primer)
+
 ### Web Service Architecture Design Patterns
 
   * Microservices Design Patterns [https://www.slideshare.net/JavaDayUA/microservices-design-patterns-for-java-application](https://www.slideshare.net/JavaDayUA/microservices-design-patterns-for-java-application)
