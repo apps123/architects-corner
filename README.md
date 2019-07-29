@@ -41,6 +41,16 @@ A collection of interesting technologies
 
 ### Java Stacks
 
+  * [https://opensource.google.com/projects/list/featured](https://opensource.google.com/projects/list/featured)
+  * [https://medium.com/issuehunt/top-11-popular-java-projects-on-github-48aaad5b4e0a](https://medium.com/issuehunt/top-11-popular-java-projects-on-github-48aaad5b4e0a)
+  * [https://www.apache.org/index.html#projects-list](https://www.apache.org/index.html#projects-list)
+  * [https://medium.com/issuehunt/50-top-java-projects-on-github-adbfe9f67dbc](https://medium.com/issuehunt/50-top-java-projects-on-github-adbfe9f67dbc)
+  * [https://www.javaworld.com/blog/open-source-java-projects/](https://www.javaworld.com/blog/open-source-java-projects/)
+  * [https://java-source.net/](https://java-source.net/)
+  * [https://24pullrequests.com/projects](https://24pullrequests.com/projects)
+
+
+
 | Name | Description | Link |
 |:-----|:------------|:-----|
 |Tellirium|Tellurium Automated Testing Framework is an open source automated testing framework for testing web applications. Tellurium evolved from Selenium framework around 2017 with a different testing approach. Tellurium is built on UI module concept, which makes it possible to write reusable and easy to maintain tests against the dynamic RIA based web applications.|[http://www.methodsandtools.com/tools/tools.php?tellurium](http://www.methodsandtools.com/tools/tools.php?tellurium)|  
