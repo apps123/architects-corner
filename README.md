@@ -64,6 +64,7 @@ A collection of interesting technologies
 
 ### Spark
 
+  * [5 hour video on Apache Spark Training](https://www.youtube.com/watch?v=GFC2gOL1p9k)
 
 ### Big Data
 
