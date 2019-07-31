@@ -93,7 +93,22 @@ A collection of interesting technologies
 
 ### Cloud Design Patterns
 
-  * Azure Cloud Design Patterns [https://docs.microsoft.com/en-us/azure/architecture/patterns/](https://docs.microsoft.com/en-us/azure/architecture/patterns/)
+| Cloud Pattern References | Link |
+|:-------------------------|:-----|
+| Multi cloud patterns and practices | [https://cloud.google.com/solutions/hybrid-and-multi-cloud-patterns-and-practices](https://cloud.google.com/solutions/hybrid-and-multi-cloud-patterns-and-practices) |
+| Basics on Cloud | [http://www.cloudcomputingpatterns.org/hybrid_cloud/](http://www.cloudcomputingpatterns.org/hybrid_cloud/) |
+| Azure guide for Cloud patterns | [https://docs.microsoft.com/en-us/azure/architecture/patterns/bulkhead](https://docs.microsoft.com/en-us/azure/architecture/patterns/) |
+
+### Archtecture Design Patterns 
+
+| Archtecture Pattern References | Link |
+|:-------------------------|:-----|
+| Top 10 Archtectural Patterns | [https://towardsdatascience.com/10-common-software-architectural-patterns-in-a-nutshell-a0b47a1e9013](https://towardsdatascience.com/10-common-software-architectural-patterns-in-a-nutshell-a0b47a1e9013) |
+| 5 patterns you need to know | [https://blog.ndepend.com/software-architecture-5-patterns-you-need-know/](https://blog.ndepend.com/software-architecture-5-patterns-you-need-know/) |
+| Oreilly Software archtecture patterns | [https://www.oreilly.com/programming/free/files/software-architecture-patterns.pdf](https://www.oreilly.com/programming/free/files/software-architecture-patterns.pdf) |
+| Archtectural Patterns | [https://www.unf.edu/~broggio/cen6017/27.ArchitecturalDesign.ppt](https://www.unf.edu/~broggio/cen6017/27.ArchitecturalDesign.ppt) |
+| Microservice Architecture Patterns | [https://microservices.io/patterns/microservices.html](https://microservices.io/patterns/microservices.html) |
+
 
 ### UML
 
