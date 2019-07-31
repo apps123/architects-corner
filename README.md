@@ -122,6 +122,10 @@ A collection of interesting technologies
 ### Relational DB
 
 
+### CI/CD
+
+  * Deployment Strategies [https://thenewstack.io/deployment-strategies/](https://thenewstack.io/deployment-strategies/)
+
 ### Common Architect's Software stacks
 
   * Queues
