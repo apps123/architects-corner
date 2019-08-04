@@ -125,19 +125,36 @@ A collection of interesting technologies
 ### CI/CD
 
   * Deployment Strategies [https://thenewstack.io/deployment-strategies/](https://thenewstack.io/deployment-strategies/)
-
-### Common Architect's Software stacks
-
-  * Queues
-  * NoSQL
-  * Solr
-  * Elasticsearch
-  * Redis
-  * Lucene
   * Docker
   * Kubernetes
   * Jenkins
+
+### Common Architect's Software stacks
+
+#### Queues
+
+#### Distributed event streaming
+
+##### Kafka
+
+    | Related Technologies to Kafka | Link |
+    |:------------------------------|:-----|
+    | Kafka monitoring | [https://medium.com/activewizards-machine-learning-company/kafka-monitoring-with-prometheus-telegraf-and-grafana-6228fed736f1](https://medium.com/activewizards-machine-learning-company/kafka-monitoring-with-prometheus-telegraf-and-grafana-6228fed736f1) |
+
+#### NoSQL
+  * Redis
+
+#### Search 
+  * Solr
+  * Elasticsearch  
+  * Lucene
+  
+#### Graph DB
+
+#### API
   * GraphQL
+
+#### Distributed Logging
   * Logstash
   
 
@@ -153,6 +170,7 @@ A collection of interesting technologies
 | Best Interview Questions | [https://beamery.com/blog/best-interview-questions](https://beamery.com/blog/best-interview-questions) |
 | Worst Interview questions | [https://magazine.vunela.com/the-5-worst-interview-questions-and-how-to-answer-them-like-a-pro-2754cb58f2ac](https://magazine.vunela.com/the-5-worst-interview-questions-and-how-to-answer-them-like-a-pro-2754cb58f2ac) |
 | Leetcode solutions to Interview questions | [https://github.com/fishercoder1534/Leetcode](https://github.com/fishercoder1534/Leetcode) |
+| Experiences how to get a job | [https://medium.com/free-code-camp/software-engineering-interviews-744380f4f2af](https://medium.com/free-code-camp/software-engineering-interviews-744380f4f2af) |
 
 ### Steps to build datascience stack for Grid
 
