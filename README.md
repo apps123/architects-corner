@@ -137,9 +137,9 @@ A collection of interesting technologies
 
 ##### Kafka
 
-    | Related Technologies to Kafka | Link |
-    |:------------------------------|:-----|
-    | Kafka monitoring | [https://medium.com/activewizards-machine-learning-company/kafka-monitoring-with-prometheus-telegraf-and-grafana-6228fed736f1](https://medium.com/activewizards-machine-learning-company/kafka-monitoring-with-prometheus-telegraf-and-grafana-6228fed736f1) |
+| Related Technologies to Kafka | Link |
+|:------------------------------|:-----|
+| Kafka monitoring | [https://medium.com/activewizards-machine-learning-company/kafka-monitoring-with-prometheus-telegraf-and-grafana-6228fed736f1](https://medium.com/activewizards-machine-learning-company/kafka-monitoring-with-prometheus-telegraf-and-grafana-6228fed736f1) |
 
 #### NoSQL
   * Redis
