@@ -351,3 +351,20 @@ hadoop jar /<path to jar>/hadoop-streaming.jar \
 
 ```
 
+## Informative Blogs
+
+| Source | Link |
+|:-------|:-----|
+| Oracle Blogs| [https://blogs.oracle.com/](https://blogs.oracle.com/) |
+| Facebook Engineering Blogs | [https://code.fb.com/](https://code.fb.com/) |
+| Twitter Engineering Blogs | [https://blog.twitter.com/engineering/en_us.html](https://blog.twitter.com/engineering/en_us.html) |
+| Amazon Architecture Blogs | [https://aws.amazon.com/blogs/architecture/](https://aws.amazon.com/blogs/architecture/) |
+| Linked Engineering Blogs | [https://engineering.linkedin.com/blog](https://engineering.linkedin.com/blog) |
+| Salesforce Engineering Blogs | [https://engineering.salesforce.com/]I(https://engineering.salesforce.com/) |
+| Machine Learning @ Apple | [https://machinelearning.apple.com/](https://machinelearning.apple.com/) |
+| Uber Engineering Blogs| [https://eng.uber.com/](https://eng.uber.com/) |
+| Stanford Engineering Blogs | [https://engineering.stanford.edu/](https://engineering.stanford.edu/) |
+| UC Berkeley Engineering Blogs | [https://engineering.berkeley.edu/](https://engineering.berkeley.edu/) |
+| MIT Technology review | [https://www.technologyreview.com/](https://www.technologyreview.com/) |
+
+
